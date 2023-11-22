@@ -1,0 +1,4 @@
+ENDPOINT_URL=http://localhost:8000
+AWS_ACCESS_KEY_ID=fakeAccessKeyId
+AWS_SECRET_ACCESS_KEY=fakeSecretAccessKey
+AWS_ORIGIN_KEY=us-west-2
